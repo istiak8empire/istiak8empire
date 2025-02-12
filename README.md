@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 AI & Robotics | Computer Networks | Automation | Embedded Systems | Simulation and Synthesis <br><br>Welcome to my GitHub! I am an Electrical and Electronic Engineering (EEE) graduate from North South University, Bangladesh, specializing in AI-driven networking, cybersecurity, and embedded systems. My research uses machine learning and AI to optimize network security, and intelligent automation.</p>
+Welcome to my GitHub! I am an Electrical and Electronic Engineering (EEE) graduate from North South University, Bangladesh, specializing in AI-driven networking, cybersecurity, and embedded systems. My research uses machine learning and AI to optimize network security, and intelligent automation.</p>
 
 ###
 
