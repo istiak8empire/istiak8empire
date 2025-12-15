@@ -9,7 +9,7 @@ Engineering graduate focused on designing, supporting, and securing modern IT, n
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=istiakahammed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=istiak8empire&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
