@@ -1,49 +1,72 @@
-<h1 align="left">Hi 👋, I'm Istiak Ahammed</h1>
+<h1 align="left">👨‍💻 Istiak Ahammed | Network & Security Engineer</h1>
 
 ###
 
-Welcome to my GitHub! I am an Electrical and Electronic Engineering (EEE) graduate from North South University, Bangladesh, specializing in AI-driven networking, cybersecurity, and embedded systems. My research uses machine learning and AI to optimize network security, and intelligent automation.</p>
+<h3 align="left">🔧 Engineering Graduate | IT Infrastructure | Cybersecurity | Network Systems</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+Welcome to my technical portfolio. I am an **Electrical and Electronic Engineering (EEE)** graduate specializing in **enterprise network infrastructure, cybersecurity implementation, and IT systems administration**. My work integrates hands-on configuration of security appliances, network design, and automation to build resilient and efficient operational environments.
 
-###
+---
 
-<p align="left">⚡ Skills & Interests:<br>Machine Learning & AI – Network Intrusion Detection, Anomaly Detection, Cybersecurity<br>Networking & Communication – Network Design, Protocol Optimization, IoT Systems<br>Embedded Systems & VLSI – Verilog HDL, FPGA, Microcontrollers, IoT Security<br>Programming & Tools – Python, MATLAB, Verilog, C++, OpenCV, TensorFlow<br><br>🚀 Passionate about developing AI-powered solutions for next-gen secure networks, intelligent surveillance, and automation. Feel free to explore my repositories, contribute, or collaborate on innovative projects!</p>
+### 🛠️ Technical Expertise
 
-###
+**Network & Security**
+- **Firewalls & Security:** Sophos XG, FortiGate, ACLs, VLAN Segmentation, Network Access Control
+- **Endpoint Protection:** Kaspersky EDR, Threat Detection & Response
+- **Infrastructure:** Cisco Packet Tracer, Ubiquiti UniFi, TCP/IP, Subnetting, DHCP, DNS
 
-<h2 align="left">I code with</h2>
+**Systems & Administration**
+- **Cloud/Collaboration:** Microsoft 365 Administration, SharePoint, cPanel
+- **IT Operations:** Technical Documentation, Incident Reporting, Helpdesk Support
+- **Monitoring & Tools:** Wireshark, Basic SIEM Concepts
 
-###
+**Programming & Development**
+- **Languages:** Python, C/C++, MATLAB
+- **Scripting & Automation:** Bash, PowerShell Basics
+- **Development Tools:** Git, VS Code, Jupyter
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+**Embedded & IoT**
+- **Platforms:** Arduino, Raspberry Pi, ESP Modules
+- **Protocols:** MQTT, HTTP, Serial Communication
+
+---
+
+### 📌 Featured Projects
+
+🔐 **Enterprise Network Security Implementation**  
+Hands-on configuration of enterprise firewalls (Sophos, FortiGate) with ACLs and VLAN segmentation to enforce security policies and isolate network traffic.
+
+🌐 **Campus & Hotel Network Design**  
+Designed and simulated scalable network architectures using Cisco Packet Tracer, implementing routing protocols (EIGRP), VLANs, and service deployment (DHCP, DNS, FTP).
+
+🤖 **IoT-Based Smart Energy Meter**  
+Built an IoT-enabled energy monitoring system with real-time data logging and Blynk cloud integration for remote dashboard visualization.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=istiak8empire&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiak8empire&layout=compact&theme=dark&hide_border=true" height="165" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istiak8empire&theme=github-dark&hide_border=true&area=true" height="165" />
+</div>
+
+---
+
+### 📫 Connect & Collaborate
+
+- **Email:** [Your Professional Email]
+- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Portfolio:** [Your Portfolio Website - Optional]
+
+🔍 *Open to collaborations in network security, infrastructure automation, and innovative IT solutions.*
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=istlok8&label=Profile%20views&color=0e75b6&style=flat" alt="istlok8" /> </p>
