@@ -1,11 +1,11 @@
 <h1 align="center">⚡ Istiak Ahammed ⚡</h1>
 
 <h3 align="center">
-Network • Systems • Cybersecurity • Infrastructure
+Network • Systems • Cybersecurity • IoT Infrastructure
 </h3>
 
 <p align="center">
-Engineering graduate focused on building, supporting, and securing real-world IT & network infrastructure.
+Engineering graduate focused on designing, supporting, and securing modern IT, network, and IoT-driven systems.
 </p>
 
 <p align="center">
@@ -18,15 +18,16 @@ Engineering graduate focused on building, supporting, and securing real-world IT
 
 <p align="left">
 🎓 Electrical & Electronic Engineering Graduate<br>
-🖥️ Network & System Operations Enthusiast<br>
+🌐 Network & System Operations<br>
 🔐 Cybersecurity (Foundational & Practical Exposure)<br>
-🌐 ISP • NOC • IT Support • Infrastructure
+📡 IoT Devices, Sensors & Embedded Systems (Applied)
 </p>
 
 <p align="left">
-I enjoy working at the intersection of networking, systems, and security—where reliability, performance, and protection matter most.  
-My focus is on practical engineering, troubleshooting, and continuous learning in production environments.
+I work across networking, systems, and IoT environments where connectivity, reliability, and security intersect.  
+My experience includes supporting enterprise and ISP infrastructures, troubleshooting systems, and working with connected devices that require stable networks and secure operations.
 </p>
+
 
 ---
 
@@ -35,7 +36,7 @@ My focus is on practical engineering, troubleshooting, and continuous learning i
 <table>
 <tr>
 <td><b>Networking</b></td>
-<td>TCP/IP, LAN/WAN, Routing & Switching (Basic), ISP Concepts, GPON/EPON, FTTx</td>
+<td>TCP/IP, LAN/WAN, Routing & Switching, ISP Concepts, GPON/EPON, FTTx</td>
 </tr>
 
 <tr>
@@ -74,26 +75,11 @@ My focus is on practical engineering, troubleshooting, and continuous learning i
 
 ---
 
-<h2 align="left">🧪 Engineering Mindset</h2>
-
-<p align="left">
-✔ Hands-on troubleshooting<br>
-✔ Documentation & structured problem solving<br>
-✔ Learning by building & breaking systems<br>
-✔ Calm under pressure in operational environments
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=istiak8empire&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiak8empire&layout=compact&theme=dark&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istiak8empire&theme=github-dark&hide_border=true&area=true" height="165" />
 </div>
 
 ---
@@ -106,5 +92,3 @@ My focus is on practical engineering, troubleshooting, and continuous learning i
 🔍 *Open to collaborations in network security, infrastructure automation, and innovative IT solutions.*
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istlok8&label=Profile%20views&color=0e75b6&style=flat" alt="istlok8" /> </p>
