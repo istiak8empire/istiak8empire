@@ -1,48 +1,87 @@
-<h1 align="left">👨‍💻 Istiak Ahammed | Network & Security Engineer</h1>
+<h1 align="center">⚡ Istiak Ahammed ⚡</h1>
 
-###
+<h3 align="center">
+Network • Systems • Cybersecurity • Infrastructure
+</h3>
 
-<h3 align="left">🔧 Engineering Graduate | IT Infrastructure | Cybersecurity | Network Systems</h3>
+<p align="center">
+Engineering graduate focused on building, supporting, and securing real-world IT & network infrastructure.
+</p>
 
-###
-
-Welcome to my technical portfolio. I am an **Electrical and Electronic Engineering (EEE)** graduate specializing in **enterprise network infrastructure, cybersecurity implementation, and IT systems administration**. My work integrates hands-on configuration of security appliances, network design, and automation to build resilient and efficient operational environments.
-
----
-
-### 🛠️ Technical Expertise
-
-**Network & Security**
-- **Firewalls & Security:** Sophos XG, FortiGate, ACLs, VLAN Segmentation, Network Access Control
-- **Endpoint Protection:** Kaspersky EDR, Threat Detection & Response
-- **Infrastructure:** Cisco Packet Tracer, Ubiquiti UniFi, TCP/IP, Subnetting, DHCP, DNS
-
-**Systems & Administration**
-- **Cloud/Collaboration:** Microsoft 365 Administration, SharePoint, cPanel
-- **IT Operations:** Technical Documentation, Incident Reporting, Helpdesk Support
-- **Monitoring & Tools:** Wireshark, Basic SIEM Concepts
-
-**Programming & Development**
-- **Languages:** Python, C/C++, MATLAB
-- **Scripting & Automation:** Bash, PowerShell Basics
-- **Development Tools:** Git, VS Code, Jupyter
-
-**Embedded & IoT**
-- **Platforms:** Arduino, Raspberry Pi, ESP Modules
-- **Protocols:** MQTT, HTTP, Serial Communication
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=istiakahammed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-### 📌 Featured Projects
+<h2 align="left">🧠 Engineer Profile</h2>
 
-🔐 **Enterprise Network Security Implementation**  
-Hands-on configuration of enterprise firewalls (Sophos, FortiGate) with ACLs and VLAN segmentation to enforce security policies and isolate network traffic.
+<p align="left">
+🎓 Electrical & Electronic Engineering Graduate<br>
+🖥️ Network & System Operations Enthusiast<br>
+🔐 Cybersecurity (Foundational & Practical Exposure)<br>
+🌐 ISP • NOC • IT Support • Infrastructure
+</p>
 
-🌐 **Campus & Hotel Network Design**  
-Designed and simulated scalable network architectures using Cisco Packet Tracer, implementing routing protocols (EIGRP), VLANs, and service deployment (DHCP, DNS, FTP).
+<p align="left">
+I enjoy working at the intersection of networking, systems, and security—where reliability, performance, and protection matter most.  
+My focus is on practical engineering, troubleshooting, and continuous learning in production environments.
+</p>
 
-🤖 **IoT-Based Smart Energy Meter**  
-Built an IoT-enabled energy monitoring system with real-time data logging and Blynk cloud integration for remote dashboard visualization.
+---
+
+<h2 align="left">⚙️ Technical Domains</h2>
+
+<table>
+<tr>
+<td><b>Networking</b></td>
+<td>TCP/IP, LAN/WAN, Routing & Switching (Basic), ISP Concepts, GPON/EPON, FTTx</td>
+</tr>
+
+<tr>
+<td><b>System & IT Support</b></td>
+<td>Windows/Linux Basics, Hardware & OS Troubleshooting, Ticket-Based Support</td>
+</tr>
+
+<tr>
+<td><b>Cybersecurity</b></td>
+<td>Firewalls, Access Control, Endpoint Security, Security Best Practices</td>
+</tr>
+
+<tr>
+<td><b>IoT & Electronics</b></td>
+<td>Sensors, Microcontrollers (Arduino/ESP), Device Testing & QA</td>
+</tr>
+</table>
+
+---
+
+<h2 align="left">🛠 Tech Stack</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-0080FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="left">🧪 Engineering Mindset</h2>
+
+<p align="left">
+✔ Hands-on troubleshooting<br>
+✔ Documentation & structured problem solving<br>
+✔ Learning by building & breaking systems<br>
+✔ Calm under pressure in operational environments
+</p>
 
 ---
 
