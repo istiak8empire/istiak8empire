@@ -61,9 +61,8 @@ Built an IoT-enabled energy monitoring system with real-time data logging and Bl
 
 ### 📫 Connect & Collaborate
 
-- **Email:** [Your Professional Email]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Portfolio:** [Your Portfolio Website - Optional]
+- **Email:** istiakahammed2000.iai@gmail.com
+- **LinkedIn:** [`/in/istiak-i8`](https://www.linkedin.com/in/istiak-i8/)
 
 🔍 *Open to collaborations in network security, infrastructure automation, and innovative IT solutions.*
 
