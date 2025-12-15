@@ -98,6 +98,6 @@ My experience includes supporting enterprise and ISP infrastructures, troublesho
 - **Email:** istiakahammed2000.iai@gmail.com
 - **LinkedIn:** [`/in/istiak-i8`](https://www.linkedin.com/in/istiak-i8/)
 
-🔍 *Open to collaborations in network security, infrastructure automation, and innovative IT solutions.*
+🔍 *Open to collaborations in network security, infrastructure automation, and innovative IoT solutions.*
 
 ---
