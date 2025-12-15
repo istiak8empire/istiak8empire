@@ -62,15 +62,24 @@ My experience includes supporting enterprise and ISP infrastructures, troublesho
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-0080FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge"/>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
